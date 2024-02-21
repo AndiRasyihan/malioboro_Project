@@ -8941,11 +8941,14 @@ h1, h2, h3, h4, h5,
     border: 1px solid rgba(255, 255, 255, 0.3) !important;
     height: 50px !important;
     background: transparent !important;
-    color: rgba(255, 255, 255, 0.9) !important;
+    color: rgba(255, 255, 255, 0.9) !important   ;
     font-size: 14px;
     border-radius: 2px;
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
+    .appointment-form .form-control .Guest {
+      color: #000;
+    }
     .appointment-form .form-control::-webkit-input-placeholder {
       /* Chrome/Opera/Safari */
       color: rgba(255, 255, 255, 0.9); }
